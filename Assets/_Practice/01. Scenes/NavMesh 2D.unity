@@ -18173,7 +18173,7 @@ MonoBehaviour:
     rid: 1683557490927599959
   m_ShadowCastingSource: 2
   m_ShadowMesh:
-    m_Mesh: {fileID: 1613570766}
+    m_Mesh: {fileID: 1577195668}
     m_LocalBounds:
       m_Center: {x: -0.000015258789, y: 0, z: 0}
       m_Extent: {x: 31.999985, y: 32, z: 0}
@@ -59742,7 +59742,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
---- !u!43 &1613570766
+--- !u!43 &1577195668
 Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -60260,7 +60260,7 @@ Transform:
   m_GameObject: {fileID: 1964533610}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0.001747852, w: 0.9999985}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0.56, y: 0.08, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -60284,7 +60284,7 @@ MonoBehaviour:
   m_FalloffIntensity: 0.588
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Intensity: 1
-  m_LightVolumeIntensity: 1
+  m_LightVolumeIntensity: 0
   m_LightVolumeEnabled: 0
   m_ApplyToSortingLayers: 00000000
   m_LightCookieSprite: {fileID: 0}
@@ -60297,8 +60297,8 @@ MonoBehaviour:
   m_UseNormalMap: 0
   m_ShadowsEnabled: 1
   m_ShadowIntensity: 1
-  m_ShadowSoftness: 0.5
-  m_ShadowSoftnessFalloffIntensity: 0.477
+  m_ShadowSoftness: 0.37
+  m_ShadowSoftnessFalloffIntensity: 0.5
   m_ShadowVolumeIntensityEnabled: 0
   m_ShadowVolumeIntensity: 0.75
   m_LocalBounds:
